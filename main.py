@@ -100,5 +100,6 @@ while i < 31:
         exits()
     else:
         print("enter a valid choice")
+i=i-1
 print("Thankyou for choosing expense tracker")
 exits()
