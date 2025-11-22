@@ -8,7 +8,7 @@ And lastly expenses on subsriptions would be subjected to "subsrciption" and wou
 
 # variable intitialisation
 l = []
-c = ["total", "biils", "food", "cars", "clothes", "other"]
+c = ["total", "bills", "food", "cars", "clothes", "other"]
 for i in range(0, 31):
     l.append({})
     for j in range(0, 6):
@@ -67,10 +67,10 @@ def show():
     """"to print the expence tracker table till ther given date"""
     print("day \tbills \tfood \tcars \tclothes other \tTotal")
     for k in range(1, i+1):
-        print(i, end="\t")
+        print(k, end="\t")
         for j in range(1, 6):
             print(l[k][c[j]], end="\t")
-        print(l[i][c[0]])
+        print(l[k][c[0]])
     print("subscription on day 1 costed", l[0]["subscription"])
 
 
@@ -79,6 +79,7 @@ budget = int(input("enter the budget for this month : "))
 l[0]["budget"] = budget
 l[0]["subscription"] = int(
     input("enter the amount you spend monthly on subscription : "))
+l[0][c[0]] += l[0]["subscription"]
 while i < 31:
     print("""Menu:
          1. to add expense on the current day
@@ -100,6 +101,6 @@ while i < 31:
         exits()
     else:
         print("enter a valid choice")
-i=i-1
+i = i-1
 print("Thankyou for choosing expense tracker")
 exits()
