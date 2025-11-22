@@ -7,7 +7,7 @@ To design a simple console based python program that help end user to track his 
 **reg no.:** 25BAI11360
 
 # Overview of the project
-This is a command-line interface (CLI) application designed for personal monthly expense and budget tracking. The program is implemented in Python and utilizes an in-memory data structure (a list of dictionaries) to store daily and cumulative financial data for a maximum of 30 days. The primary goal of the system is to help a user monitor their spending across several predefined categories, manage a monthly budget, and track cumulative expenses. The following sections detail the system's design, functional components, architecture, and potential future enhancements.
+This is a command-line interface (CLI) application designed for personal monthly expense and budget tracking. The program is implemented in Python and utilizes an in-memory data structure (a list of dictionaries) to store daily and cumulative financial data for a maximum of 30 days. The primary goal of the system is to help a user monitor their spending across several predefined categories, manage a monthly budget, and track cumulative expenses. 
 
 # Features
 * **Monthly Budget Management:** Allows the user to set an initial total budget for the month upon startup.
