@@ -48,4 +48,10 @@ This is a command-line interface (CLI) application designed for personal monthly
 3. Run the Program and in the terminal use test case given below to get the results
 * **For intial budget setup:** input monthly budget you want to use
 * **subscription amount:** input amount you pay on subsciption
-* **Add expenses:** You can add expenses by choosing option 1 from the menu, later choose the sub category for adding expenses in to particular section where you money was spent.It also calculates the total expenses on that day additionally it tracks the cumulative expense in category wise and total expense in a month.at last it prints the budget left  after the amount you spent at the instance.
+* **Add expenses and budget update:** You can add expenses by choosing **option 1** from the menu, later choose the sub category for adding expenses in to particular section where you money was spent.It also calculates the total expenses on that day additionally it tracks the cumulative expense in category wise and total expense in a month.at last it prints the budget left  after the amount you spent at the instance.
+* **Budget update:** by choosing **option 2** from the menu you can add more value to budget.
+* **Day advancement:** By choosinng **option 3** from the menu you can jump to next day and add more expenses on the next day.
+* **to print expense chart till date:** by choosing **option 4** from the menu you can print the expense chart till the moment.
+* **to exit the program:** by choosing **option 5** from the menu you can exit the expense tracker and it print the final expense chart at the end and budget left.
+
+# Screenshots
