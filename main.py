@@ -16,7 +16,6 @@ for i in range(0, 31):
 l[0]["budget"] = 0
 l[0]["subscription"] = 0
 i = 1
-budget = 0
 
 
 def add_expense():
@@ -44,7 +43,6 @@ def add_budget():
     """function to add more to budget"""
     v = int(input("input money you want to add in your budget "))
     l[0]["budget"] += v
-    budget += v
 
 
 def next_day():
