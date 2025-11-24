@@ -55,3 +55,24 @@ This is a command-line interface (CLI) application designed for personal monthly
 * **to exit the program:** by choosing **option 5** from the menu you can exit the expense tracker and it print the final expense chart at the end and budget left.
 
 # Screenshots
+**Initial Run**<br>
+<img width="930" height="369" alt="image" src="https://github.com/user-attachments/assets/1cb95be2-3e5a-4965-8bbe-867169124484" />
+<br>
+**menu option 1**<br>
+<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/33f964a7-dca4-4386-82e5-314fa67cee8a" />
+<br>
+**invalid choice display**<br>
+<img width="911" height="522" alt="image" src="https://github.com/user-attachments/assets/de9ba6bc-263d-4cc1-8d29-69dd7f563fd3" />
+<br>
+**Menu option 2**<br>
+<img width="863" height="281" alt="image" src="https://github.com/user-attachments/assets/e3a14d29-a90d-41f2-bbac-8441e387aa15" />
+<br>
+**Menu option 3**<br>
+<img width="931" height="313" alt="image" src="https://github.com/user-attachments/assets/386fcf93-4b8a-4f36-8396-a8a1c9422ef5" />
+<br>
+**Menu option 4**<br>
+<img width="940" height="324" alt="image" src="https://github.com/user-attachments/assets/1b0fbb1e-3f28-4e37-8aa5-5c06ee66e47e" />
+<br>
+**Menu option 5**<br>
+<img width="940" height="829" alt="image" src="https://github.com/user-attachments/assets/abf07395-d2f4-4f34-a9cb-e328b98ea09c" />
+
